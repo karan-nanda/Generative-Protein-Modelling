@@ -1,4 +1,3 @@
-from __future__ import print_function
 from torch.utils.data import Dataset
 import numpy as np
 import json,time,copy
